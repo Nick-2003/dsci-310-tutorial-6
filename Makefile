@@ -1,8 +1,8 @@
 all: # Target name
-	Rscript 01-load_data.R
-	Rscript 02-methods.R
-	Rscript 03-model.R
-	Rscript 04-results.R
+	Rscript 01_load_data.R
+	Rscript 02_methods.R
+	Rscript 03_model.R
+	Rscript 04_results.R
 
 download: 
-	Rscript 01-load_clean.R
+	Rscript 01_load_data.R

@@ -49,7 +49,7 @@ conf_mat
 
 In this tutorial, we:
 
-- Loaded and cleaned the `palmerpenguins` dataset.
-- Performed exploratory data analysis.
-- Built a k-Nearest Neighbors classification model using `tidymodels`.
-- Evaluated the model's performance.
+-   Loaded and cleaned the `palmerpenguins` dataset.
+-   Performed exploratory data analysis.
+-   Built a k-Nearest Neighbors classification model using `tidymodels`.
+-   Evaluated the model's performance.
